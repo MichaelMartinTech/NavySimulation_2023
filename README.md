@@ -10,9 +10,22 @@ NOTE - ``Code requires Unity asset implementation for functionality.``
 
 ### For demonstration of code, please contact the author. ###
 
+### Preview Screenshot ###
 ![alt text](https://github.com/MichaelRNia/NavySimulation_2023/blob/main/image_2024-01-13_161453116.png?raw=true)
 
-#### Video demos are available alongside the source code. ####
+## Video demos: ##
+
+### Waypoints Demo ###
+https://github.com/MichaelRNia/NavySimulation_2023/assets/70539262/4c54c12e-8b7e-410f-ae80-e2bd73f6a8bd
+
+### A* Demo ###
+https://github.com/MichaelRNia/NavySimulation_2023/assets/70539262/e6130b8e-f7f3-49bd-8403-c3a99412b041
+
+### Potential Fields Demo ###
+https://github.com/MichaelRNia/NavySimulation_2023/assets/70539262/364dbc6c-203b-4e55-8a32-3e4d9f936086
+
+### A* Potential Fields Demo ###
+https://github.com/MichaelRNia/NavySimulation_2023/assets/70539262/c840c34e-c90c-493b-9240-0a8c77595cd0
 
 ## Summary
 The code is based around a navy simulation program for UNR's Graduate-Level Advanced Game Design class for fall 2023,
@@ -46,8 +59,8 @@ Handles the creation and destruction of LineRenderers for various purposes, such
 
 ## Update Log ##
 #### 1/13/2024 ####
-`4:11 PM Pacific Standard Time`
-- Uploaded code and video for viewing.
+`4:11 PM PST` - Uploaded code and video for viewing.
 
-`4:16 PM Pacific Standard Time`
-- AStarPF Preview Image Provided
+`4:16 PM PST` - AStarPF Preview Image Provided
+
+`5:16 PM PST` - Video Previews Embedded
