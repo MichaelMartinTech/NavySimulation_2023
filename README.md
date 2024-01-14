@@ -10,6 +10,8 @@ NOTE - ``Code requires Unity asset implementation for functionality.``
 
 ### For demonstration of code, please contact the author. ###
 
+![alt text](https://github.com/MichaelRNia/NavySimulation_2023/blob/main/image_2024-01-13_161453116.png?raw=true)
+
 #### Video demos are available alongside the source code. ####
 
 ## Summary
@@ -44,5 +46,7 @@ Handles the creation and destruction of LineRenderers for various purposes, such
 
 ## Update Log ##
 #### 1/13/2024 ####
-`4:11 PM Pacific Time`
+`4:11 PM Pacific Standard Time`
 - Uploaded code and video for viewing.
+`4:16 PM Pacific Standard Time`
+- AStarPF Preview Image Provided
