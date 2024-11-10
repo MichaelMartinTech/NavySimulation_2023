@@ -1,6 +1,6 @@
 # NavySimulation_2023
 ### Author: ### 
-` Michael Nia `
+` Michael R. Martin `
 ### Creation Date: ### 
 ` 11/9/2023 `
 
