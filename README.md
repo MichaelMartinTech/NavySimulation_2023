@@ -4,8 +4,11 @@
 ### Creation Date: ### 
 ` 11/9/2023 `
 
-### About: ### 
-Source Code for UNR's CS 481 class utilizing AI Pathfinding for ship movement.
+### Program Purpose: ### 
+This program is an algorithmic AI demo showcasing A* AI Pathfinding techniques for ship movement. 
+The code is designed, developed, and implemented utilizing A* waypoint navigation with potential fields. Navigation modes can be switched through the menu interface,
+along with setting randomly generated obstacles through the scene. Video demos of these features are available in this repository.
+
 NOTE - ``Code requires Unity asset implementation for functionality.``
 
 ### For demonstration of code, please contact the author. ###
@@ -26,11 +29,6 @@ https://github.com/MichaelRNia/NavySimulation_2023/assets/70539262/364dbc6c-203b
 
 ### A* Potential Fields Demo ###
 https://github.com/MichaelRNia/NavySimulation_2023/assets/70539262/c840c34e-c90c-493b-9240-0a8c77595cd0
-
-## Summary
-The code is based around a navy simulation program for UNR's Graduate-Level Advanced Game Design class for fall 2023,
-which utilizes A* waypoint navigation with potential fields. Navigation modes can be switched through the menu interface,
-along with setting randomly generated obstacles through the scene. Video demos of these features are available in repo.
 
 ## Info
 `Engine:` Unity 2023
@@ -58,6 +56,8 @@ Includes functionalities for handling A* pathfinding, potential fields movement,
 Handles the creation and destruction of LineRenderers for various purposes, such as representing movement, potential fields, following, and intercepting. The script provides methods to instantiate these LineRenderers with specified positions. Additionally, it manages a list of active LineRenderers, allowing for their removal when necessary. Overall, `LineMgr.cs` contributes to the visual representation of ship behaviors and interactions within the naval simulation.
 
 ## Update Log ##
+#### 11/10/2024 ####
+`4:49 PM PST` - Updated ReadMe for Clarity, including Program Purpose
 #### 1/13/2024 ####
 `4:11 PM PST` - Uploaded code and video for viewing.
 
